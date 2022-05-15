@@ -1,6 +1,6 @@
 # follow-along-link
 ## JavaScript Exercise: Follow Along Links #JavaScript30 22/30
-### JAVASCRIPT30 WES BOS [Live]()[ YouTube](https://www.youtube.com/watch?v=POP_qri7RA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=22)
+### JAVASCRIPT30 WES BOS [Live](https://artanmerko.github.io/follow-along-link/)[ YouTube](https://www.youtube.com/watch?v=POP_qri7RA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=22)
 
 
 
